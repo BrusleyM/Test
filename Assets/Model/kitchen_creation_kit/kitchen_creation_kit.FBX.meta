@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: ec40b66161fcdf5458ccee83032f58c3
-AssetOrigin:
-  serializedVersion: 1
-  productId: 2854
-  packageName: Kitchen Creation Kit
-  packageVersion: 1.3
-  assetPath: Assets/kitchen_creation_kit/kitchen_creation_kit.FBX
-  uploadId: 26234
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable:
@@ -158,6 +151,8 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -175,7 +170,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.8
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -230,7 +225,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.8
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
