@@ -13,7 +13,6 @@ public class ParentChildInstantiator : MonoBehaviour
     {
         foreach (var go in objectsToInstantiate)
         {
-            // Check if the prefab is already instantiated as a child
             if (!HasChildWithName(go.transform, $"{go.name} Grabbable"))
             {
                 SetUpGrabbable(go);
