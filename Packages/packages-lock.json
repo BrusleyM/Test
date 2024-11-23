@@ -372,6 +372,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vishnu.framework": {
+      "version": "https://github.com/BrusleyM/Framework-package.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "196d78df11e37d3cec6cb16abe69d25854f54e63"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
